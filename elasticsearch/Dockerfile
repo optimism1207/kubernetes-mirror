@@ -1,2 +1,2 @@
-FROM gcr.io/fluentd-elasticsearch/elasticsearch:v6.6
+FROM gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.1
 MAINTAINER GX
